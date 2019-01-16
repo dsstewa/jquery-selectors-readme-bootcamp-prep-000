@@ -11,4 +11,6 @@ function lastImageSelector() {
   
 }
 
-function 
+function ninjaBabySelector() {
+  
+}
