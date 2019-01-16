@@ -12,5 +12,5 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  
+  return $('ninga-baby').image()
 }
